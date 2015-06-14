@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 첫번째 포스팅 테스트
+title:  "Github Pages 에 올리는 첫 글"
+date:   2015-06-14 22:00:00
 ---
 
 # 오라클 HCM의 첫번째 포스팅이자 테스트(글제목)
